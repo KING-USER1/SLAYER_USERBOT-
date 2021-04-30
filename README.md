@@ -14,4 +14,4 @@
 <h1>#TEAMLEGEND</h1>
 </details>
 
-#CREADITS=DEVIL😶
+# CREADITS=DEVIL😶
