@@ -1,7 +1,7 @@
 # SLAYER
 
 ## Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FlucifKING-USER1%2FSLAYER.0&template=https%3A%2F%2Fgithub.com%2KING-USER1%2FSLAYER)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FlucifKING-USER1%2FSLAYER2.0&template=https%3A%2F%2Fgithub.com%2KING-USER1%2FSLAYER)
 
 
 <img src="https://telegra.ph/file/8893e4a7a54a4d2c6ba91.jpg"/>
